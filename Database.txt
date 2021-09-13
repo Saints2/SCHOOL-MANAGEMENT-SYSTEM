@@ -1,0 +1,1 @@
+http://localhost/phpmyadmin/db_structure.php?server=1&db=stdmgdb&token=41bdea6a04175ada929823fd88350c0f
